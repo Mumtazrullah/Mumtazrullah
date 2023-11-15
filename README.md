@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Ikmal from Sumedang<br><br>- 🔭 I’m  studying at SMKN 13 Bandung</p>
+<p align="left">I'm Ikmal from Sumedang<br><br>- 📖 I’m  studying at SMKN 13 Bandung</p>
 
 ###
 
