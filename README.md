@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Ikmal from Sumedang<br><br>📖 I’m  studying at SMKN 13 Bandung</p>
+<p align="left">Hi, I'm Mumtaz<br><br>📖 Currently studying at SMKN 13 Bandung, I am passionate about web development and continuously improving my skills in software engineering.</p>
 
 ###
 
