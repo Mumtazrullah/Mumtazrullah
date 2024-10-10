@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1194.gif](https://media1.tenor.com/m/WXaUiPSDqHcAAAAd/sigit-rendang-sigit-acumalaka.gif"  />
+  <img height="150" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1194.gif"  />
 </div>
 
 ###
